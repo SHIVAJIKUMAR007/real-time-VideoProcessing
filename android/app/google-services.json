@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775721402820",
+    "project_id": "caller-5ba04",
+    "storage_bucket": "caller-5ba04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775721402820:android:69f93fe291dd1f46a42491",
+        "android_client_info": {
+          "package_name": "com.vchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775721402820-ijgc2k8id4nlim4d9sdbmidc5aae7r0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpnKm-GsxVRD_MToIhS0K1JeGQM6VXC3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775721402820-ijgc2k8id4nlim4d9sdbmidc5aae7r0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
